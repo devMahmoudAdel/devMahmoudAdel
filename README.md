@@ -10,7 +10,7 @@
 
 I'm a **Web Developer** specializing in **MERN Stack** with a passion for **[Interests or Technologies]**. I enjoy building innovative solutions and contributing to open-source projects. My main focus is on **[Mention Core Technologies or Skills]**.
 
-- 🌱 **Currently Learning:** React js
+- 🌱 **Currently Learning:** React Native
 - 🔭 **Working On:** I am student
 - 💬 **Ask me about:** [Your key expertise or topics of interest]
 - ⚡ **Fun Fact:** [Something interesting about you]
@@ -27,16 +27,16 @@ I'm a **Web Developer** specializing in **MERN Stack** with a passion for **[Int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- You can add more badges depending on your skills -->
-
+<!--
 ## 📊 GitHub Stats
 
 <!-- GitHub profile stats animation -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 <br>
 <!-- A contribution streak tracker -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
 
 ## 🚀 Projects
 
@@ -45,7 +45,7 @@ I'm a **Web Developer** specializing in **MERN Stack** with a passion for **[Int
 
 ### [Project 2 Name](https://github.com/yourusername/project2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
-
+-->
 <!-- Include animated GIFs or images for each project if available -->
 
 ## 📫 Connect with Me
